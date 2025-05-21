@@ -1,39 +1,32 @@
 ---
-role: Seu Nome 
+role: Kenji C. Konno
 weight: 18
-email: "seuemail@email.com"
+email: "kenji.c.konno@gmail.com"
 interests:
--
--
--
--
+- Microbiologia
+- Biotecnologia
+- Sensoriamento remoto
+- Tecnologias agro
 organizations:
 - name: UFSC
   url: "https://ufsc.br/"
 
 social:
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:seuemail@email.com'
-  
 - icon: lattes
   icon_pack: ai
-  link: seu lattes
-  
-- icon: researchgate
-  icon_pack: ai
-  link: seu researchgate # se você não tem exclua isso tudo
+  link: (http://lattes.cnpq.br/2364358035376898)
   
 - icon: github
   icon_pack: fab
-  link: seu github
+  link: (https://github.com/kenjirox)
   
 - icon: linkedin-in
   icon_pack: fab
-  link: seu linkedin # se você não tem exclua isso tudo
+  link: www.linkedin.com/in/kenji-c-konno
   
 user_groups:
 - Estudantes de Graduação
 ---
 
 DESCRIÇÃO DE ATÉ 10 LINHAS
+Atualmente, sou graduando em Agronomia pela Universidade Federal de Santa Catarina (UFSC). Minhas principais áreas de interesse incluem Microbiologia Agrícola, Biotecnologia e Sensoriamento Renoto, nas quais busco aprofundar meus conhecimentos e contribuir com pesquisas relevantes para o avanço científico e tecnológico no setor agrícola.
